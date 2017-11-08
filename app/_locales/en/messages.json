@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "vue chrome extension example",
+    "message": "Api debugger extension",
     "description": "The name of the application"
   },
   "appShortName": {
@@ -12,7 +12,7 @@
     "description": "The description of the application"
   },
   "browserActionTitle": {
-    "message": "vue chrome extension example",
+    "message": "Api debugger extension",
     "description": "The title of the browser action button"
   }
 }
